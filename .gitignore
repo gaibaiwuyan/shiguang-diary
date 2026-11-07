@@ -1,0 +1,6 @@
+deepseek.config.local.mjs
+shared.config.local.mjs
+storage/
+shared-data.json
+node_modules/
+.DS_Store
